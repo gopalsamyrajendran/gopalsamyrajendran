@@ -24,11 +24,15 @@
 <a href="https://instagram.com/gopalsamyrajendran" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="gopalsamyrajendran" height="30" width="40" /></a>
 <a href="https://medium.com/@gopalsamy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-m-2.svg" alt="@gopalsamy" height="30" width="40" /></a>
 </p>
- 
+
+**SKILLS**
+
+![Web](https://img.shields.io/badge/%F0%9F%8C%90-WebPentesting-red)  ![Network](https://img.shields.io/badge/%F0%9F%92%BB-Network%20Pentesting-green)  
+
 **LANGUAGES KNOWN**
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a> </p>
 
 **OTHER TECHNOLOGIES**
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="azure" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="azure" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="draw.io" width="40" height="40"/> </a> </p> 
