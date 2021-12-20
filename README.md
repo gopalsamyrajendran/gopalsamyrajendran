@@ -27,7 +27,7 @@
 
 **SKILLS**
 
-![Web](https://img.shields.io/badge/%F0%9F%8C%90-WebPentesting-red)  ![Network](https://img.shields.io/badge/%F0%9F%92%BB-Network%20Pentesting-green)  
+![Web](https://img.shields.io/badge/%F0%9F%8C%90-Web%20Application%20Pentesting-orange)  ![Network](https://img.shields.io/badge/%F0%9F%92%BB-Network%20Pentesting-green)  
 
 **LANGUAGES KNOWN**
 
