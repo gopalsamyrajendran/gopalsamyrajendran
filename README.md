@@ -24,5 +24,8 @@
 <a href="https://instagram.com/gopalsamyrajendran" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="gopalsamyrajendran" height="30" width="40" /></a>
 <a href="https://medium.com/@gopalsamy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-m-2.svg" alt="@gopalsamy" height="30" width="40" /></a>
 </p>
+ 
+**LANGUAGES KNOWN**
 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a> </p>
 
