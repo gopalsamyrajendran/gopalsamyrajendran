@@ -16,10 +16,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalsamyrajendran" alt="gopalsamyrajendran" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalsamyrajendran&" alt="gopalsamyrajendran" /></p>
+**CONNECT WITH ME**
 
-**FOLLOW ME:**
-
-[![Twitter URL](https://img.shields.io/twitter/follow/gopalsamy_ru?label=Follow%20Me&style=social)](https://twitter.com/gopalsamy_ru)  
+<p align="left">
+<a href="https://twitter.com/gopalsamy_ru" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="gopalsamy_ru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gopalsamyrajendran" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="gopalsamyrajendran" height="30" width="40" /></a>
+<a href="https://instagram.com/gopalsamyrajendran" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="gopalsamyrajendran" height="30" width="40" /></a>
+<a href="https://medium.com/@gopalsamy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-m-2.svg" alt="@gopalsamy" height="30" width="40" /></a>
+</p>
 
 
