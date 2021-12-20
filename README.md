@@ -6,3 +6,7 @@
 **GITHUB CONTRIBUTION:**
 
 ![snake gif](https://github.com/gopalsamyrajendran/gopalsamyrajendran/blob/output/github-contribution-grid-snake.gif)
+
+**FOLLOW ME:**
+
+[![Twitter URL](https://img.shields.io/twitter/follow/gopalsamy_ru?label=Follow%20Me&style=social)](https://twitter.com/gopalsamy_ru)  
