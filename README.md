@@ -2,7 +2,7 @@
 
 **ABOUT ME:** 
 
-<h4 align="left">Hi 👋, I'm Gopalsamy Rajendran, A passionate cybersecurity researcher from India currently working as a Senior Security Engineer at ACCUBITS TECHNOLOGIES PVT LTD. </h4>
+<h4 align="left">Hi 👋, I'm Gopalsamy Rajendran, A passionate cybersecurity researcher from India currently working as a Senior Consultant </h4>
 
 **GITHUB STATS:**
 
